@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp;
 
   <a href="https://www.jenkins.io" title="Jenkins" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> &nbsp;
 
   <a href="https://swagger.io/" title="Swagger" target="_blank"> 
   <img src="img/icons/swagger.png" alt="jenkins" width="40" height="40"/> </a>
