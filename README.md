@@ -92,7 +92,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>&nbsp;
 
   <a href="https://www.mysql.com/" title="MySQL" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;&nbsp; 
 
   <a href="http://www.h2database.com/html/main.html" title="H2" target="_blank"> 
   <img src="img/icons/h2.png" alt="mysql" width="35" height="35"/> </a> 
