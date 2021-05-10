@@ -17,7 +17,7 @@
 <div> 
   <a href="https://www.java.com" title="Java" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
+  </a>&nbsp;
 
   <a href="https://spring.io/" title="Spring" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -68,7 +68,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
   
   <a href="https://www.w3schools.com/cpp/" title="C++" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;
   
   <a href="https://www.w3schools.com/cs/" title="C#" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> &nbsp;
