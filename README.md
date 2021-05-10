@@ -74,7 +74,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
   
   <a href="https://heroku.com" title="Heroku" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>&nbsp;
 
   <a href="https://www.netlify.com/" title="Netlify" target="_blank"> 
   <img src="img/icons/netlify.png" alt="heroku" width="40" height="40"/> </a> &nbsp;
