@@ -100,7 +100,7 @@
   <a href="http://www.h2database.com/html/main.html" title="H2" target="_blank"> 
   <img src="img/icons/h2.png" alt="mysql" width="35" height="35"/> </a> &nbsp;&nbsp;
 
-  <a href="https://www.jaspersoft.com/" title="Jasper Reports" target="_blank"> 
+  <a href="https://www.jaspersoft.com/" title="JasperReports" target="_blank"> 
   <img src="img/icons/jasper.png" alt="mysql" width="35" height="35"/> </a> 
 </div>
 
