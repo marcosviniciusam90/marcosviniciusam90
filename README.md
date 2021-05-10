@@ -96,7 +96,7 @@
 
 <div>
   <pre>
-             <b>DSVendas                            Projeto 2                            Projeto 3</b>
+               <b>DSVendas                              Projeto 2                              Projeto 3</b>
   <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>     <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>     <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a></br>
             <b>Projeto 4                            Projeto 5                            Projeto 6</b>
   <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>     <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>     <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>
