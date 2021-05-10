@@ -20,7 +20,7 @@
   </a>
 
   <a href="https://spring.io/" title="Spring" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>&nbsp;&nbsp;
 
   <a href="https://martinfowler.com/articles/richardsonMaturityModel.html" title="REST" target="_blank"> 
   <img src="img/icons/restapi.png" alt="spring" width="40" height="40"/> </a>&nbsp;
@@ -74,7 +74,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
   
   <a href="https://heroku.com" title="Heroku" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> &nbsp;
   
   <a href="https://postman.com" title="Postman" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;
@@ -97,8 +97,8 @@
 <div>
   <pre>
              <b>DSVendas                            Projeto 2                            Projeto 3</b>
-  <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>       <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>       <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a></br>
+  <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>    <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>    <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a></br>
             <b>Projeto 4                            Projeto 5                            Projeto 6</b>
-  <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>       <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>       <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>
+  <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>    <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>    <a href="https://mvam-dsvendas.netlify.app/" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>
   </pre>
 </div>
