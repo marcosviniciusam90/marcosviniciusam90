@@ -66,7 +66,7 @@
 
   <a href="https://openjfx.io/" title="JavaFX" target="_blank"> 
   <img src="img/icons/javafx.png" alt="android" width="40" height="40"/> </a>
-  
+  </br></br>
   <a href="https://www.cprogramming.com/" title="C" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
   
