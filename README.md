@@ -109,6 +109,6 @@
 <div>
   <pre>
                <b>DSVendas                              </b>
-  <a href="https://mvam-dsvendas.netlify.app/" title="Dashboard de vendas ao qual o frontend (ReactJS/Bootstrap) se comunica com o backend (Java/Spring) por meio de API's REST" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>
+  <a href="https://mvam-dsvendas.netlify.app/" title="Dashboard de vendas ao qual o frontend (ReactJS/Bootstrap) se comunica com o backend (Java/Spring) por meio de API's REST" target="_blank"><kbd><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></kbd></a>
   </pre>
 </div>
