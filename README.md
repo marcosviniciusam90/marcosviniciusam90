@@ -7,8 +7,8 @@
 
 <h2>Contato</h2>
 <p>
-<a href="mailto:marcosviniciusam90@gmail.com" target="_blank"><img align="center" src="img/icons/gmail.png" alt="marcosviniciusam90@gmail.com" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/marcosviniciusam90" target="_blank"><img align="center" src="img/icons/linkedin.png" alt="marcosviniciusam90" height="40" width="40" /></a>&nbsp;
+<a href="mailto:marcosviniciusam90@gmail.com" target="_blank"><img align="center" src="img/icons/gmail.png" alt="marcosviniciusam90@gmail.com" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/marcosviniciusam90" target="_blank"><img align="center" src="img/icons/linkedin.png" alt="marcosviniciusam90" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/marcosvam90_ofc" target="_blank"><img align="center" src="img/icons/twitter.png" alt="marcosvam90_ofc" height="40" width="40" /></a>
 </p>
 
