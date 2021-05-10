@@ -32,7 +32,7 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> &nbsp;
 
   <a href="https://swagger.io/" title="Swagger" target="_blank"> 
-  <img src="img/icons/swagger.png" alt="jenkins" width="40" height="40"/> </a>
+  <img src="img/icons/swagger.png" alt="jenkins" width="40" height="40"/> </a>&nbsp;
 
   <a href="https://hibernate.org" title="Hibernate/JPA" target="_blank"> 
   <img src="img/icons/hibernate.svg" alt="javascript" width="40" height="40"/> </a>
@@ -68,7 +68,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
   
   <a href="https://www.w3schools.com/cpp/" title="C++" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   
   <a href="https://www.w3schools.com/cs/" title="C#" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
