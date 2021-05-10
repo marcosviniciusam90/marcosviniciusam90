@@ -35,10 +35,10 @@
   <img src="img/icons/swagger.png" alt="jenkins" width="40" height="40"/> </a>&nbsp;
 
   <a href="https://hibernate.org" title="Hibernate/JPA" target="_blank"> 
-  <img src="img/icons/hibernate.svg" alt="javascript" width="40" height="40"/> </a>
+  <img src="img/icons/hibernate.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;
 
   <a href="https://git-scm.com/" title="Git" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
 
   <a href="https://maven.apache.org/" title="Maven" target="_blank"> 
   <img src="img/icons/maven.png" alt="git" width="40" height="40"/> </a>&nbsp;
