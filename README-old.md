@@ -7,8 +7,8 @@
 
 <h2>Contato</h2>
 <p>
-<a href="mailto:marcosviniciusam90@gmail.com" target="_blank"><img align="center" src="img/icons/gmail.png" alt="marcosviniciusam90@gmail.com" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/marcosviniciusam90" target="_blank"><img align="center" src="img/icons/linkedin.png" alt="marcosviniciusam90" height="40" width="40" /></a>&nbsp;
+<a href="mailto:marcosviniciusam90@gmail.com" target="_blank"><img align="center" src="img/icons/gmail.png" alt="marcosviniciusam90@gmail.com" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/marcosviniciusam90" target="_blank"><img align="center" src="img/icons/linkedin.png" alt="marcosviniciusam90" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/marcosvam90_ofc" target="_blank"><img align="center" src="img/icons/twitter.png" alt="marcosvam90_ofc" height="40" width="40" /></a>
 </p>
 
@@ -17,7 +17,7 @@
 <div> 
   <a href="https://www.java.com" title="Java" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
+  </a>&nbsp;
 
   <a href="https://spring.io/" title="Spring" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -26,19 +26,19 @@
   <img src="img/icons/restapi.png" alt="spring" width="40" height="40"/> </a>&nbsp;
 
   <a href="https://www.docker.com/" title="Docker" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp;
 
   <a href="https://www.jenkins.io" title="Jenkins" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> &nbsp;
 
   <a href="https://swagger.io/" title="Swagger" target="_blank"> 
-  <img src="img/icons/swagger.png" alt="jenkins" width="40" height="40"/> </a>
+  <img src="img/icons/swagger.png" alt="jenkins" width="40" height="40"/> </a>&nbsp;
 
   <a href="https://hibernate.org" title="Hibernate/JPA" target="_blank"> 
-  <img src="img/icons/hibernate.svg" alt="javascript" width="40" height="40"/> </a>
+  <img src="img/icons/hibernate.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;
 
   <a href="https://git-scm.com/" title="Git" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
 
   <a href="https://maven.apache.org/" title="Maven" target="_blank"> 
   <img src="img/icons/maven.png" alt="git" width="40" height="40"/> </a>&nbsp;
@@ -63,6 +63,9 @@
 
   <a href="https://developer.android.com" title="Android" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+
+  <a href="https://openjfx.io/" title="JavaFX" target="_blank"> 
+  <img src="img/icons/javafx.png" alt="android" width="40" height="40"/> </a>
   
   <a href="https://www.cprogramming.com/" title="C" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
@@ -71,10 +74,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;
   
   <a href="https://www.w3schools.com/cs/" title="C#" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> &nbsp;
   
   <a href="https://heroku.com" title="Heroku" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>&nbsp;
+
+  <a href="https://www.netlify.com/" title="Netlify" target="_blank"> 
+  <img src="img/icons/netlify.png" alt="heroku" width="40" height="40"/> </a> &nbsp;
   
   <a href="https://postman.com" title="Postman" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;
@@ -89,16 +95,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>&nbsp;
 
   <a href="https://www.mysql.com/" title="MySQL" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;&nbsp; 
+
+  <a href="http://www.h2database.com/html/main.html" title="H2" target="_blank"> 
+  <img src="img/icons/h2.png" alt="mysql" width="35" height="35"/> </a> &nbsp;&nbsp;
+
+  <a href="https://www.jaspersoft.com/" title="JasperReports" target="_blank"> 
+  <img src="img/icons/jasper.png" alt="mysql" width="35" height="35"/> </a> 
 </div>
 
 <h2>Portfólio</h2>
 
 <div>
   <pre>
-               <b>DSVendas                              Projeto 2                              Projeto 3</b>
-  <a href="https://mvam-dsvendas.netlify.app/" title="Dashboard de vendas ao qual o frontend (ReactJS/Bootstrap) se comunica com o backend (Java/Spring) por meio de API's REST" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>     <a href="https://mvam-dsvendas.netlify.app/" title="Dashboard de vendas" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>     <a href="https://mvam-dsvendas.netlify.app/" title="Dashboard de vendas" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a></br>
-              <b>Projeto 4                              Projeto 5                              Projeto 6</b>
-  <a href="https://mvam-dsvendas.netlify.app/" title="Dashboard de vendas" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>     <a href="https://mvam-dsvendas.netlify.app/" title="Dashboard de vendas" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>     <a href="https://mvam-dsvendas.netlify.app/" title="Dashboard de vendas" target="_blank"><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></a>
+               <b> DSVendas                              SPPerson             </b>
+  <a href="https://mvam-dsvendas.netlify.app/" title="Dashboard de vendas ao qual o frontend (ReactJS/Bootstrap) se comunica com o backend (Java/Spring) por meio de API's REST" target="_blank"><kbd><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></kbd></a>   <a href="https://mvam-spperson.herokuapp.com/swagger-ui/index.html?url=/api-docs" title="API REST para cadastro de pessoas" target="_blank"><kbd><img src="img/spperson.jpg" alt="spring" width="240" height="150" /></kbd></a>
   </pre>
 </div>
