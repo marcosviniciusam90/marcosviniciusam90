@@ -134,7 +134,6 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <p>  </p>
-  </br>
 
   <a href="https://mvam-dsvendas.netlify.app/" title="DSVendas &#13;Dashboard de vendas" target="_blank">
     <kbd><img src="img/dsvendas.jpg" width="240" height="150" /></kbd>
