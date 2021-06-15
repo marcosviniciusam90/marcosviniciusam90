@@ -120,19 +120,6 @@
 <h2>Portfólio</h2>
 
 <div>
-  <a href="https://mvam-dsvendas.netlify.app/" title="DSVendas &#13;Dashboard de vendas" target="_blank">
-    <kbd><img src="img/dsvendas.jpg" width="240" height="150" /></kbd>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://mvam-spperson.herokuapp.com/swagger-ui/index.html?url=/api-docs" title="SPPerson &#13;API REST para cadastro de pessoas" target="_blank">
-    <kbd><img src="img/spperson.jpg" width="240" height="150" /></kbd>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://mvam-spperson.herokuapp.com/swagger-ui/index.html?url=/api-docs" title="SPPerson &#13;API REST para cadastro de pessoas" target="_blank">
-    <kbd><img src="img/spperson.jpg" width="240" height="150" /></kbd>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <p>  </p>
 
   <a href="https://mvam-dsvendas.netlify.app/" title="DSVendas &#13;Dashboard de vendas" target="_blank">
     <kbd><img src="img/dsvendas.jpg" width="240" height="150" /></kbd>
@@ -142,7 +129,4 @@
     <kbd><img src="img/spperson.jpg" width="240" height="150" /></kbd>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://mvam-spperson.herokuapp.com/swagger-ui/index.html?url=/api-docs" title="SPPerson &#13;API REST para cadastro de pessoas" target="_blank">
-    <kbd><img src="img/spperson.jpg" width="240" height="150" /></kbd>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>

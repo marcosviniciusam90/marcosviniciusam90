@@ -12,103 +12,139 @@
 <a href="https://twitter.com/marcosvam90_ofc" target="_blank"><img align="center" src="img/icons/twitter.png" alt="marcosvam90_ofc" height="40" width="40" /></a>
 </p>
 
-<h2>Linguagens e tecnologias</h2>
+<h2>Habilidades</h2>
 
 <div> 
   <a href="https://www.java.com" title="Java" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>&nbsp;
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
+  </a>
 
   <a href="https://spring.io/" title="Spring" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>&nbsp;&nbsp;
-
-  <a href="https://martinfowler.com/articles/richardsonMaturityModel.html" title="REST" target="_blank"> 
-  <img src="img/icons/restapi.png" alt="spring" width="40" height="40"/> </a>&nbsp;
+  <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+  </a>
 
   <a href="https://www.docker.com/" title="Docker" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp;
+  <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>
 
   <a href="https://www.jenkins.io" title="Jenkins" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> &nbsp;
+  <img src="https://img.shields.io/badge/jenkins%20-d33833.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
+  </a>
 
-  <a href="https://swagger.io/" title="Swagger" target="_blank"> 
-  <img src="img/icons/swagger.png" alt="jenkins" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.swagger.io" title="Swagger" target="_blank"> 
+  <img src="https://img.shields.io/badge/swagger%20-%236DB33F.svg?&style=for-the-badge&logo=swagger&logoColor=white"/>
+  </a>
 
   <a href="https://hibernate.org" title="Hibernate/JPA" target="_blank"> 
-  <img src="img/icons/hibernate.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;
+  <img src="https://img.shields.io/badge/hibernate/jpa%20-59666c.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/>
+  </a>
 
-  <a href="https://git-scm.com/" title="Git" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
+  <a href="https://git-scm.com" title="Git" target="_blank"> 
+  <img src="https://img.shields.io/badge/git%20-f54d27.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
 
-  <a href="https://maven.apache.org/" title="Maven" target="_blank"> 
-  <img src="img/icons/maven.png" alt="git" width="40" height="40"/> </a>&nbsp;
-
-  <a href="http://tomcat.apache.org/" title="Tomcat" target="_blank"> 
-  <img src="img/icons/tomcat.png" alt="git" width="40" height="40"/> </a>&nbsp;
-
-  <a href="https://reactjs.org/" title="ReactJS" target="_blank"> 
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/> </a>&nbsp;
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;
-
-  <a href="https://www.w3.org/html/" title="HTML5" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  
-  <a href="https://www.w3schools.com/css/" title="CSS3" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-
-  <a href="https://getbootstrap.com" title="Bootstrap" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-
-  <a href="https://developer.android.com" title="Android" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://postman.com" title="Postman" target="_blank"> 
+  <img src="https://img.shields.io/badge/postman%20-ff6c37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
+  </a>
 
   <a href="https://openjfx.io/" title="JavaFX" target="_blank"> 
-  <img src="img/icons/javafx.png" alt="android" width="40" height="40"/> </a>
-  
-  <a href="https://www.cprogramming.com/" title="C" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
-  
-  <a href="https://www.w3schools.com/cpp/" title="C++" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;
-  
-  <a href="https://www.w3schools.com/cs/" title="C#" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> &nbsp;
-  
+  <img src="https://img.shields.io/badge/javafx%20-4b9dd7.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+
+  <a href="https://developer.android.com" title="Android" target="_blank"> 
+  <img src="https://img.shields.io/badge/android%20-00de7a.svg?&style=for-the-badge&logo=android&logoColor=white"/>
+  </a>  
+
+  <a href="https://angular.io" title="Angular" target="_blank"> 
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  </a>  
+
+  <a href="https://reactjs.org" title="ReactJS" target="_blank"> 
+  <img src="https://img.shields.io/badge/reactjs%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"> 
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </a>
+
+  <a href="https://www.typescriptlang.org" title="TypeScript" target="_blank"> 
+  <img src="https://img.shields.io/badge/typescript%20-3178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>
+
+  <a href="https://www.w3schools.com/html" title="HTML5" target="_blank"> 
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+
+  <a href="https://www.w3schools.com/css" title="CSS3" target="_blank"> 
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+
+  <a href="https://www.cprogramming.com" title="C" target="_blank"> 
+  <img src="https://img.shields.io/badge/c%20-%23323330.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+  </a>
+
+  <a href="https://www.w3schools.com/cpp" title="C++" target="_blank"> 
+  <img src="https://img.shields.io/badge/c++%20-%23323330.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  </a>
+
+  <a href="https://www.w3schools.com/cs" title="C#" target="_blank"> 
+  <img src="https://img.shields.io/badge/cs%20-%23323330.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
+  </a>
+
   <a href="https://heroku.com" title="Heroku" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>&nbsp;
+  <img src="https://img.shields.io/badge/heroku%20-614889.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+  </a>
 
-  <a href="https://www.netlify.com/" title="Netlify" target="_blank"> 
-  <img src="img/icons/netlify.png" alt="heroku" width="40" height="40"/> </a> &nbsp;
-  
-  <a href="https://postman.com" title="Postman" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.netlify.com" title="Netlify" target="_blank"> 
+  <img src="https://img.shields.io/badge/netlify%20-43a3bd.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
 
-  <a href="https://www.oracle.com/" title="Oracle" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.oracle.com" title="Oracle" target="_blank"> 
+  <img src="https://img.shields.io/badge/oracle%20-c74634.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
+  </a>
 
   <a href="https://www.microsoft.com/en-us/sql-server" title="SQL Server" target="_blank"> 
-  <img src="img/icons/sqlserver.svg" alt="mssql" width="40" height="40"/> </a>&nbsp;
+  <img src="https://img.shields.io/badge/sql%20server%20-0067b8.svg?&style=for-the-badge&logo=microsoft&logoColor=white"/>
+  </a>
 
   <a href="https://www.postgresql.org" title="PostgreSQL" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>&nbsp;
+  <img src ="https://img.shields.io/badge/postgresql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>
 
-  <a href="https://www.mysql.com/" title="MySQL" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;&nbsp; 
+  <a href="https://www.mysql.com" title="MySQL" target="_blank"> 
+  <img src="https://img.shields.io/badge/mysql-00758f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
 
-  <a href="http://www.h2database.com/html/main.html" title="H2" target="_blank"> 
-  <img src="img/icons/h2.png" alt="mysql" width="35" height="35"/> </a> &nbsp;&nbsp;
-
-  <a href="https://www.jaspersoft.com/" title="JasperReports" target="_blank"> 
-  <img src="img/icons/jasper.png" alt="mysql" width="35" height="35"/> </a> 
 </div>
 
 <h2>Portfólio</h2>
 
 <div>
-  <pre>
-               <b> DSVendas                              SPPerson             </b>
-  <a href="https://mvam-dsvendas.netlify.app/" title="Dashboard de vendas ao qual o frontend (ReactJS/Bootstrap) se comunica com o backend (Java/Spring) por meio de API's REST" target="_blank"><kbd><img src="img/dsvendas.jpg" alt="spring" width="240" height="150" /></kbd></a>   <a href="https://mvam-spperson.herokuapp.com/swagger-ui/index.html?url=/api-docs" title="API REST para cadastro de pessoas" target="_blank"><kbd><img src="img/spperson.jpg" alt="spring" width="240" height="150" /></kbd></a>
-  </pre>
+
+  <a href="https://mvam-dsvendas.netlify.app/" title="DSVendas &#13;Dashboard de vendas" target="_blank">
+    <kbd><img src="img/dsvendas.jpg" width="240" height="150" /></kbd>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://mvam-spperson.herokuapp.com/swagger-ui/index.html?url=/api-docs" title="SPPerson &#13;API REST para cadastro de pessoas" target="_blank">
+    <kbd><img src="img/spperson.jpg" width="240" height="150" /></kbd>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://mvam-spperson.herokuapp.com/swagger-ui/index.html?url=/api-docs" title="SPPerson &#13;API REST para cadastro de pessoas" target="_blank">
+    <kbd><img src="img/spperson.jpg" width="240" height="150" /></kbd>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <p>  </p>
+
+  <a href="https://mvam-dsvendas.netlify.app/" title="DSVendas &#13;Dashboard de vendas" target="_blank">
+    <kbd><img src="img/dsvendas.jpg" width="240" height="150" /></kbd>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://mvam-spperson.herokuapp.com/swagger-ui/index.html?url=/api-docs" title="SPPerson &#13;API REST para cadastro de pessoas" target="_blank">
+    <kbd><img src="img/spperson.jpg" width="240" height="150" /></kbd>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://mvam-spperson.herokuapp.com/swagger-ui/index.html?url=/api-docs" title="SPPerson &#13;API REST para cadastro de pessoas" target="_blank">
+    <kbd><img src="img/spperson.jpg" width="240" height="150" /></kbd>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
 </div>
