@@ -1,9 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Marcos Vinícius de Almeida Mendonça</h1>
 <h3 align="center">Desenvolvedor apaixonado, sempre em busca de novos desafios e conhecimentos</h3>
-</br>
-
-> Bacharel em Sistemas de Informação pela FIPP/Unoeste. </br>
-> Atualmente, trabalho como Analista de Sistemas na [MATERA Systems](https://www.matera.com)
 
 <h2>Contato</h2>
 <p>
