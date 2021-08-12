@@ -159,6 +159,5 @@
     </a>
     <i><b>SPPerson (API)</b> &#8594; API REST para cadastro de pessoas.</i>
   </nobr>
-  <br><br>
 
 </div>
