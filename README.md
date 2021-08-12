@@ -121,26 +121,44 @@
 
 <div>
 
-  <a href="https://mvam-algamoney.netlify.app/" title="AlgaMoney &#13;Aplicação para controle financeiro" target="_blank">
-    <kbd><img src="img/algamoney.jpg" width="240" height="150" /></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
+  <nobr>
+    <a href="https://mvam-algamoney.netlify.app/" title="AlgaMoney &#13;Aplicação para controle financeiro" target="_blank">
+      <kbd><img src="img/algamoney.jpg" width="240" height="150" /></kbd>&nbsp;&nbsp;
+    </a>
+    <i><b>AlgaMoney</b> &#8594; Aplicação para controle financeiro.</i>
+  </nobr>
+  <br><br>
   
-  <a href="https://mvam-dsvendas.netlify.app/" title="DSVendas &#13;Dashboard de vendas" target="_blank">
-    <kbd><img src="img/dsvendas.jpg" width="240" height="150" /></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-
-  <a href="https://mvam-etcontact.herokuapp.com/swagger-ui/index.html?url=/api-docs" title="ETContact &#13;API REST para cadastro de pessoas e contatos" target="_blank">
-    <kbd><img src="img/etcontact.jpg" width="240" height="150" /></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
+  <nobr>
+    <a href="https://mvam-dsvendas.netlify.app/" title="DSVendas &#13;Dashboard de vendas" target="_blank">
+      <kbd><img src="img/dsvendas.jpg" width="240" height="150" /></kbd>&nbsp;&nbsp;
+    </a>
+    <i><b>DSVendas</b> &#8594; Dashboard de vendas.</i>
+  </nobr>
+  <br><br>
   
-  <p> </p>
+  <nobr>
+    <a href="https://mvam-etcontact.herokuapp.com/swagger-ui/index.html?url=/api-docs" title="ETContact &#13;API REST para cadastro de pessoas e contatos" target="_blank">
+      <kbd><img src="img/etcontact.jpg" width="240" height="150" /></kbd>&nbsp;&nbsp;
+    </a>
+    <i><b>ETContact</b> &#8594; API REST para cadastro de pessoas e contatos.</i>
+  </nobr>
+  <br><br>
   
-  <a href="https://mvam-spperson.netlify.app" title="SPPerson (app) &#13;App para cadastro de pessoas" target="_blank">
-    <kbd><img src="img/spperson-app.jpg" width="240" height="150" /></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-
-  <a href="https://mvam-spperson.herokuapp.com/swagger-ui/index.html?url=/api-docs" title="SPPerson (API) &#13;API REST para cadastro de pessoas" target="_blank">
-    <kbd><img src="img/spperson.jpg" width="240" height="150" /></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
+  <nobr>
+    <a href="https://mvam-spperson.netlify.app" title="SPPerson (app) &#13;App para cadastro de pessoas" target="_blank">
+      <kbd><img src="img/spperson-app.jpg" width="240" height="150" /></kbd>&nbsp;&nbsp;
+    </a>
+    <i><b>SPPerson (app)</b> &#8594; App para cadastro de pessoas.</i>
+  </nobr>
+  <br><br>
+  
+  <nobr>
+    <a href="https://mvam-spperson.herokuapp.com/swagger-ui/index.html?url=/api-docs" title="SPPerson (API) &#13;API REST para cadastro de pessoas" target="_blank">
+      <kbd><img src="img/spperson.jpg" width="240" height="150" /></kbd>&nbsp;&nbsp;
+    </a>
+    <i><b>SPPerson (API)</b> &#8594; API REST para cadastro de pessoas.</i>
+  </nobr>
+  <br><br>
 
 </div>
