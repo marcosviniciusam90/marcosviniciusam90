@@ -1,5 +1,9 @@
-<h1 align="center">Olá 👋, me chamo Marcos Vinícius de Almeida Mendonça</h1>
-<h3 align="center">Desenvolvedor apaixonado, sempre em busca de novos desafios e conhecimentos</h3>
+<h1>Olá 👋, me chamo Marcos Vinícius de Almeida Mendonça</h1>
+<div>
+  <a href="https://github.com/marcosviniciusam90">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosviniciusam90&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciusam90&layout=compact&langs_count=8&theme=dracula"/>
+</div>
 
 <h2>Contato</h2>
 <p>
@@ -118,25 +122,25 @@
 <div>
 
   <a href="https://mvam-algamoney.netlify.app/" title="AlgaMoney &#13;Aplicação para controle financeiro" target="_blank">
-    <kbd><img src="img/algamoney.jpg" width="240" height="150" /></kbd>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <kbd><img src="img/algamoney.jpg" width="240" height="150" /></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
   
   <a href="https://mvam-dsvendas.netlify.app/" title="DSVendas &#13;Dashboard de vendas" target="_blank">
-    <kbd><img src="img/dsvendas.jpg" width="240" height="150" /></kbd>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <kbd><img src="img/dsvendas.jpg" width="240" height="150" /></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
   <a href="https://mvam-etcontact.herokuapp.com/swagger-ui/index.html?url=/api-docs" title="ETContact &#13;API REST para cadastro de pessoas e contatos" target="_blank">
-    <kbd><img src="img/etcontact.jpg" width="240" height="150" /></kbd>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <p>  </p>
+    <kbd><img src="img/etcontact.jpg" width="240" height="150" /></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  
+  <p> </p>
   
   <a href="https://mvam-spperson.netlify.app" title="SPPerson (app) &#13;App para cadastro de pessoas" target="_blank">
-    <kbd><img src="img/spperson-app.jpg" width="240" height="150" /></kbd>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <kbd><img src="img/spperson-app.jpg" width="240" height="150" /></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
   <a href="https://mvam-spperson.herokuapp.com/swagger-ui/index.html?url=/api-docs" title="SPPerson (API) &#13;API REST para cadastro de pessoas" target="_blank">
-    <kbd><img src="img/spperson.jpg" width="240" height="150" /></kbd>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <kbd><img src="img/spperson.jpg" width="240" height="150" /></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
 </div>
